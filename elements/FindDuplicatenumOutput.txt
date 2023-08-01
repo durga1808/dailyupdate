@@ -1,0 +1,7 @@
+Output:
+
+Duplicate elements: [1, 2, 3, 4, 5, 9]
+
+Read me:
+  
+Find the duplicate numbers and get override the numbers.
