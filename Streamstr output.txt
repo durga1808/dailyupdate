@@ -1,0 +1,7 @@
+Output:
+
+Concatenated Uppercase:
+ PACKAGE
+THREAD
+STREAM
+STRAMAPI

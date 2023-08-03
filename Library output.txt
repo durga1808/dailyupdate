@@ -1,0 +1,7 @@
+Output:
+
+Books in the Library:
+Book{title='Java Programming', author='John Smith'}
+Book{title='Python Basics', author='Alice Johnson'}
+Book{title='Data Structures', author='Bob Williams'}
+Found book: Book{title='Java Programming', author='John Smith'}
